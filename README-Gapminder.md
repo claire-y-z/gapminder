@@ -1,8 +1,8 @@
 # Project 1 Gapminder Data Analysis
 
-## Overview: This project explores Gapminder dataset, which tracks life expectancy, population, and GDP per capita across countries from 1952 to 2007. Its relevance in social and statistics allowed me to investigate and visualize questions regarding global development from real data. Here, I narrowed my focus more on locating and finding out necessary values rather than cleaning data.
+## Overview:This project explores Gapminder dataset, which tracks life expectancy, population, and GDP per capita across countries from 1952 to 2007. Its relevance in social and statistics allowed me to investigate and visualize questions regarding global development from real data. Here, I narrowed my focus more on locating and finding out necessary values rather than cleaning data.
 
-The analysis was done in Python (pandas and matplotlib) and R (dplyr, ggplot2) to practice fundamental basics of data science that I am currently learning.
+The exploration was done in Python (pandas and matplotlib) and R (dplyr, ggplot2) to practice fundamental basics of data science that I am currently learning.
 
 
 ## Questions Investigated
@@ -19,8 +19,6 @@ Bonus visualization practice:
 
 
 ## Findings
-
-## Key Findings
 
 **1. India's population growth**
 India's population grew from 372,000,000 (1952) to 1,110,396,331 (2007), at an average growth rate of about 10.46% over each five-year period recorded.
