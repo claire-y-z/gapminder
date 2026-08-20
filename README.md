@@ -1,6 +1,6 @@
 # Project 1 Gapminder Data Analysis
 
-## Overview:This project explores Gapminder dataset, which tracks life expectancy, population, and GDP per capita across countries from 1952 to 2007. Its relevance in social and statistics allowed me to investigate and visualize questions regarding global development from real data. Here, I narrowed my focus more on locating and finding out necessary values rather than cleaning data.
+## Overview: This project explores Gapminder dataset, which tracks life expectancy, population, and GDP per capita across countries from 1952 to 2007. Its relevance in social and statistics allowed me to investigate and visualize questions regarding global development from real data. Here, I narrowed my focus more on locating and finding out necessary values rather than cleaning data.
 
 The exploration was done in Python (pandas and matplotlib) and R (dplyr, ggplot2) to practice fundamental basics of data science that I am currently learning.
 
