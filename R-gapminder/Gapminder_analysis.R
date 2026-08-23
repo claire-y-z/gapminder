@@ -5,6 +5,7 @@
 # 4. How has life expectancy in the US changed over time?
 # 5. Which countries changed most in life expectancy between 1952 and 2007?
 
+
 # Setup
 library(gapminder)
 library(ggplot2)
